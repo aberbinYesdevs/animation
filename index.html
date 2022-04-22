@@ -1,6 +1,6 @@
 <html>
   <head>
-    <script src="anime.min.js"></script>
+    <script src="/animation/anime.min.js"></script>
   </head>
   <body>
     <svg id="svg" viewBox="0 0 1920 1080">
@@ -7868,7 +7868,7 @@
           });
         });
       }
-      fetch("animationSteps.json")
+      fetch("/animation/animationSteps.json")
         .then((response) => {
           return response.json();
         })
