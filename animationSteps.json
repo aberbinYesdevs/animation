@@ -1,5 +1,13 @@
 {
   "first_desktop": {
+    "clock_all": {
+      "targets": "#clock_1, #clock_2, #clock_3, #clock_4, #clock_5",
+      "class": [
+        {
+          "value": "text active"
+        }
+      ]
+    },
     "svg": {
       "targets": "#svg",
       "viewBox": [
@@ -392,6 +400,14 @@
     }
   },
   "second_desktop": {
+    "clock_all": {
+      "targets": "#clock_1, #clock_2, #clock_3, #clock_4, #clock_5",
+      "class": [
+        {
+          "value": "text active"
+        }
+      ]
+    },
     "svg": {
       "targets": "#svg",
       "viewBox": [
@@ -784,6 +800,14 @@
     }
   },
   "third_desktop": {
+    "clock_all": {
+      "targets": "#clock_1, #clock_2, #clock_3, #clock_4, #clock_5",
+      "class": [
+        {
+          "value": "text active"
+        }
+      ]
+    },
     "svg": {
       "targets": "#svg",
       "viewBox": [
@@ -1176,6 +1200,14 @@
     }
   },
   "fourty_desktop": {
+    "clock_all": {
+      "targets": "#clock_1, #clock_2, #clock_3, #clock_4, #clock_5",
+      "class": [
+        {
+          "value": "text active"
+        }
+      ]
+    },
     "svg": {
       "targets": "#svg",
       "viewBox": [
@@ -1568,6 +1600,14 @@
     }
   },
   "fivety_desktop": {
+    "clock_all": {
+      "targets": "#clock_1, #clock_2, #clock_3, #clock_4, #clock_5",
+      "class": [
+        {
+          "value": "text active"
+        }
+      ]
+    },
     "svg": {
       "targets": "#svg",
       "viewBox": [
@@ -1960,6 +2000,14 @@
     }
   },
   "sixty_desktop": {
+    "clock_all": {
+      "targets": "#clock_1, #clock_2, #clock_3, #clock_4, #clock_5",
+      "class": [
+        {
+          "value": "text active"
+        }
+      ]
+    },
     "svg": {
       "targets": "#svg",
       "viewBox": [
