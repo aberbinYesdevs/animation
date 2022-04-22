@@ -7868,21 +7868,21 @@
           });
         });
       }
-      fetch("./animationSteps.json")
+      fetch("/animationSteps.json")
         .then((response) => {
           return response.json();
         })
         .then((jsonData) => {
           window.addEventListener("resize", (e) => {
-            const type = window.screen.width <= 480 ? "mobile" : "desktop";
+            const type = document.body.scrollWidth <= 480 ? "mobile" : "desktop";
             makeAnimation(jsonData[`first_${type}`]);
           });
-          const type = window.screen.width <= 480 ? "mobile" : "desktop";
+          const type = document.body.scrollWidth <= 480 ? "mobile" : "desktop";
           makeAnimation(jsonData[`first_${type}`]);
           ["first", "second", "third", "fourty", "fivety", "sixty"].forEach(
             (step) => {
               document.getElementById(step).addEventListener("click", (e) => {
-                const type = window.screen.width <= 480 ? "mobile" : "desktop";
+                const type = document.body.scrollWidth <= 480 ? "mobile" : "desktop";
                 makeAnimation(jsonData[`${step}_${type}`]);
               });
             }
