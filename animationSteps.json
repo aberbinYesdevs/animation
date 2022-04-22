@@ -189,7 +189,7 @@
       "targets": "#fourty_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 138.5 397.1)"
+          "value": "matrix(1 0 0 1 138.5 396.1)"
         }
       ]
     },
@@ -197,7 +197,7 @@
       "targets": "#fourty_text",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 120.4 416)"
+          "value": "matrix(1 0 0 1 118.4 416)"
         }
       ]
     },
@@ -226,7 +226,7 @@
       "targets": "#third_text_one",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 120.4 580)"
+          "value": "matrix(1 0 0 1 118.4 580)"
         }
       ]
     },
@@ -234,7 +234,7 @@
       "targets": "#third_text_two",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 120.4 600)"
+          "value": "matrix(1 0 0 1 118.4 600)"
         }
       ]
     },
@@ -255,7 +255,7 @@
       "targets": "#second_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 138.4 719.2)"
+          "value": "matrix(1 0 0 1 138.4 715.2)"
         }
       ]
     },
@@ -589,7 +589,7 @@
       "targets": "#fourty_text",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 122 419)"
+          "value": "matrix(1 0 0 1 120 419)"
         }
       ]
     },
@@ -618,7 +618,7 @@
       "targets": "#third_text_one",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 122 583)"
+          "value": "matrix(1 0 0 1 120 583)"
         }
       ]
     },
@@ -626,7 +626,7 @@
       "targets": "#third_text_two",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 122 603)"
+          "value": "matrix(1 0 0 1 120 603)"
         }
       ]
     },
@@ -697,7 +697,7 @@
       "targets": "#first_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 141 939)"
+          "value": "matrix(1 0 0 1 141 936)"
         }
       ]
     },
@@ -713,7 +713,7 @@
       "targets": "#first_text_two",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 122.4 973)"
+          "value": "matrix(1 0 0 1 120.4 973)"
         }
       ]
     },
@@ -1023,7 +1023,7 @@
       "targets": "#fourty_text",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 120.7 421)"
+          "value": "matrix(1 0 0 1 117.7 421)"
         }
       ]
     },
@@ -1049,7 +1049,7 @@
       "targets": "#third_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 135 620)"
+          "value": "matrix(1 0 0 1 130 620)"
         }
       ]
     },
@@ -1086,7 +1086,7 @@
       "targets": "#second_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 135 782)"
+          "value": "matrix(1 0 0 1 139 782)"
         }
       ]
     },
@@ -1352,7 +1352,7 @@
       "targets": "#fivety_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 141 230.5)"
+          "value": "matrix(1 0 0 1 143 230.5)"
         }
       ]
     },
@@ -1423,7 +1423,7 @@
       "targets": "#third_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 138.7 617)"
+          "value": "matrix(1 0 0 1 143 617)"
         }
       ]
     },
@@ -1431,7 +1431,7 @@
       "targets": "#third_text_one",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 123 640)"
+          "value": "matrix(1 0 0 1 120 640)"
         }
       ]
     },
@@ -1439,7 +1439,7 @@
       "targets": "#third_text_two",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 123 660)"
+          "value": "matrix(1 0 0 1 120 660)"
         }
       ]
     },
@@ -1460,7 +1460,7 @@
       "targets": "#second_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 138.7 779)"
+          "value": "matrix(1 0 0 1 143 779)"
         }
       ]
     },
@@ -1794,7 +1794,7 @@
       "targets": "#fourty_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 141 456)"
+          "value": "matrix(1 0 0 1 143 460)"
         }
       ]
     },
@@ -1802,7 +1802,7 @@
       "targets": "#fourty_text",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 123.4 476)"
+          "value": "matrix(1 0 0 1 120.4 480)"
         }
       ]
     },
@@ -1823,7 +1823,7 @@
       "targets": "#third_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 138.7 617)"
+          "value": "matrix(1 0 0 1 143 617)"
         }
       ]
     },
@@ -1831,7 +1831,7 @@
       "targets": "#third_text_one",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 123.4 640)"
+          "value": "matrix(1 0 0 1 120.4 640)"
         }
       ]
     },
@@ -1839,7 +1839,7 @@
       "targets": "#third_text_two",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 123 660)"
+          "value": "matrix(1 0 0 1 120 660)"
         }
       ]
     },
@@ -1860,7 +1860,7 @@
       "targets": "#second_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 138.7 779)"
+          "value": "matrix(1 0 0 1 143 779)"
         }
       ]
     },
@@ -1897,7 +1897,7 @@
       "targets": "#first_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 138.7 939)"
+          "value": "matrix(1 0 0 1 143 939)"
         }
       ]
     },
@@ -2862,7 +2862,7 @@
       "targets": "#fivety_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 212.6 672.4)"
+          "value": "matrix(1 0 0 1 214.6 672.4)"
         }
       ]
     },
@@ -2899,7 +2899,7 @@
       "targets": "#fourty_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 211 829.5)"
+          "value": "matrix(1 0 0 1 213 829.5)"
         }
       ]
     },
@@ -2965,7 +2965,7 @@
       "targets": "#second_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 212.2 1119.4)"
+          "value": "matrix(1 0 0 1 214.2 1119.4)"
         }
       ]
     },
@@ -3248,7 +3248,7 @@
       "targets": "#fivety_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 212.6 672.4)"
+          "value": "matrix(1 0 0 1 214.6 672.4)"
         }
       ]
     },
@@ -3285,7 +3285,7 @@
       "targets": "#fourty_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 211 829.5)"
+          "value": "matrix(1 0 0 1 215 829.5)"
         }
       ]
     },
@@ -3314,7 +3314,7 @@
       "targets": "#third_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 213.4 970.3)"
+          "value": "matrix(1 0 0 1 215.4 970.3)"
         }
       ]
     },
@@ -3393,7 +3393,7 @@
       "targets": "#first_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 210 1330)"
+          "value": "matrix(1 0 0 1 214 1326)"
         }
       ]
     },
@@ -3634,7 +3634,7 @@
       "targets": "#fivety_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 212.6 672.4)"
+          "value": "matrix(1 0 0 1 214.6 672.4)"
         }
       ]
     },
@@ -3671,7 +3671,7 @@
       "targets": "#fourty_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 211 829.5)"
+          "value": "matrix(1 0 0 1 213 829.5)"
         }
       ]
     },
@@ -3742,7 +3742,7 @@
       "targets": "#second_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 212.2 1179.4)"
+          "value": "matrix(1 0 0 1 214.2 1175.4)"
         }
       ]
     },
@@ -3779,7 +3779,7 @@
       "targets": "#first_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 210 1330)"
+          "value": "matrix(1 0 0 1 214 1326)"
         }
       ]
     },
@@ -4035,7 +4035,7 @@
       "targets": "#fivety_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 212.6 672.4)"
+          "value": "matrix(1 0 0 1 214.6 672.4)"
         }
       ]
     },
@@ -4077,7 +4077,7 @@
       "targets": "#fourty_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 194.1 882.5)"
+          "value": "matrix(1 0 0 1 194.1 888.5)"
         }
       ]
     },
@@ -4106,7 +4106,7 @@
       "targets": "#third_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 213.4 1034.3)"
+          "value": "matrix(1 0 0 1 215.4 1032.3)"
         }
       ]
     },
@@ -4114,7 +4114,7 @@
       "targets": "#third_text_one",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 190.4 1054)"
+          "value": "matrix(1 0 0 1 192.4 1054)"
         }
       ]
     },
@@ -4122,7 +4122,7 @@
       "targets": "#third_text_two",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 190.4 1074)"
+          "value": "matrix(1 0 0 1 190.4 1076)"
         }
       ]
     },
@@ -4143,7 +4143,7 @@
       "targets": "#second_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 214.2 1179.4)"
+          "value": "matrix(1 0 0 1 214.2 1175.4)"
         }
       ]
     },
@@ -4180,7 +4180,7 @@
       "targets": "#first_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 210 1330)"
+          "value": "matrix(1 0 0 1 214 1326)"
         }
       ]
     },
@@ -4426,7 +4426,7 @@
       "targets": "#fivety_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 198.6 737.4)"
+          "value": "matrix(1 0 0 1 200.6 740.4)"
         }
       ]
     },
@@ -4463,7 +4463,7 @@
       "targets": "#fourty_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 211 889.5)"
+          "value": "matrix(1 0 0 1 215 889.5)"
         }
       ]
     },
@@ -4492,7 +4492,7 @@
       "targets": "#third_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 213.4 1034.3)"
+          "value": "matrix(1 0 0 1 215.4 1032.3)"
         }
       ]
     },
@@ -4500,7 +4500,7 @@
       "targets": "#third_text_one",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 190.4 1054)"
+          "value": "matrix(1 0 0 1 192.4 1054)"
         }
       ]
     },
@@ -4508,7 +4508,7 @@
       "targets": "#third_text_two",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 190.4 1074)"
+          "value": "matrix(1 0 0 1 190.4 1076)"
         }
       ]
     },
@@ -4529,7 +4529,7 @@
       "targets": "#second_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 212.2 1179.4)"
+          "value": "matrix(1 0 0 1 214.2 1175.4)"
         }
       ]
     },
@@ -4537,7 +4537,7 @@
       "targets": "#second_text_one",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 178.4 1199)"
+          "value": "matrix(1 0 0 1 180.4 1199)"
         }
       ]
     },
@@ -4566,7 +4566,7 @@
       "targets": "#first_number",
       "transform": [
         {
-          "value": "matrix(1 0 0 1 210 1330)"
+          "value": "matrix(1 0 0 1 214 1326)"
         }
       ]
     },
