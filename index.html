@@ -1,6 +1,136 @@
 <html>
   <head>
-    <script src="/animation/anime.min.js"></script>
+    <script src="/anime.min.js"></script>
+    <style type="text/css">
+      #sixty,
+      #fivety,
+      #fourty,
+      #third,
+      #second,
+      #first {
+        cursor: pointer;
+      }
+      div#container {
+        width: 140px;
+        height: 140px;
+        display: block;
+        overflow: hidden;
+        margin: 100px auto;
+      }
+      svg {
+        width: 100%;
+        height: 100%;
+        fill: #3071f3;
+      }
+      * {
+        font-weight: bold;
+        font-size: 14.4px;
+        font-family: monospace;
+        transition: font-size 0.2s, opacity 0.3s;
+      }
+      .small0,
+      .small,
+      .small0 text,
+      .small text {
+        font-size: 14.4px;
+      }
+      .bigtext0 text {
+        font-size: 1rem;
+      }
+      .big,
+      .big0 {
+        font-size: 100.8px;
+      }
+      .big0,
+      .big,
+      .big0 text,
+      .big text {
+        font-size: 100.8px;
+      }
+      #sixty.big0,
+        #sixty.big,
+        #sixty.big0 text,
+        #sixty.big text {
+          font-size: 28px;
+        }
+      @media only screen and (max-width: 768px) {
+        .big0,
+        .big,
+        .big0 text,
+        .big text {
+          font-size: 100.8px;
+        }
+        #sixty.big0,
+        #sixty.big,
+        #sixty.big0 text,
+        #sixty.big text {
+          font-size: 25.8px;
+        }
+      }
+      .nav .active0 circle,
+      .nav .active circle {
+        opacity: 1;
+      }
+      .nav .number,
+      .nav .number {
+        font-size: 38px;
+      }
+      .nav .active0 .number,
+      .nav .active .number {
+        font-size: 100.8px;
+      }
+      .nav .active0:not(#sixty) text:not(.number),
+      .nav .active:not(#sixty) text:not(.number) {
+        display: none;
+      }
+      .footer_text {
+        font-size: 100.8px;
+        fill: #002f68;
+      }
+      .none {
+        display: none;
+      }
+      .title {
+        fill: #ffffff;
+        font-size: 38px;
+      }
+      .text {
+        fill: #002f68;
+      }
+      .box {
+        fill: #eff3f7;
+      }
+      .header {
+        fill: #002f68;
+      }
+      .molecule {
+        fill: #507b00;
+      }
+      .arrow {
+        fill: none;
+        stroke: #d40065;
+        stroke-width: 13;
+        stroke-miterlimit: 10;
+      }
+      .arrow_head {
+        stroke: #d40065;
+        fill: #d40065;
+      }
+      .white {
+        fill: #ffffff;
+      }
+      .purple {
+        fill: #693875;
+      }
+      .inactive,
+      .inactive0 {
+        opacity: 0;
+      }
+      .active,
+      .active0 {
+        opacity: 1;
+      }
+    </style>
   </head>
   <body>
     <svg id="svg" viewBox="0 0 1920 1080">
@@ -7860,6 +7990,7 @@
       </g>
     </svg>
     <script type="text/javascript">
+      var mobile_breakpoint = 768;
       function makeAnimation(obj) {
         Object.keys(obj).forEach((key) => {
           anime({
@@ -7868,132 +7999,35 @@
           });
         });
       }
-      fetch("/animation/animationSteps.json")
+      fetch("/animationSteps.json")
         .then((response) => {
           return response.json();
         })
         .then((jsonData) => {
           window.addEventListener("resize", (e) => {
-            const type = document.body.scrollWidth <= 480 ? "mobile" : "desktop";
+            const type =
+              document.body.scrollWidth <= mobile_breakpoint
+                ? "mobile"
+                : "desktop";
             makeAnimation(jsonData[`first_${type}`]);
           });
-          const type = document.body.scrollWidth <= 480 ? "mobile" : "desktop";
+          const type =
+            document.body.scrollWidth <= mobile_breakpoint
+              ? "mobile"
+              : "desktop";
           makeAnimation(jsonData[`first_${type}`]);
           ["first", "second", "third", "fourty", "fivety", "sixty"].forEach(
             (step) => {
               document.getElementById(step).addEventListener("click", (e) => {
-                const type = document.body.scrollWidth <= 480 ? "mobile" : "desktop";
+                const type =
+                  document.body.scrollWidth <= mobile_breakpoint
+                    ? "mobile"
+                    : "desktop";
                 makeAnimation(jsonData[`${step}_${type}`]);
               });
             }
           );
         });
     </script>
-    <style type="text/css">
-      div#container {
-        width: 140px;
-        height: 140px;
-        display: block;
-        overflow: hidden;
-        margin: 100px auto;
-      }
-      svg {
-        width: 100%;
-        height: 100%;
-        fill: #3071f3;
-      }
-      * {
-        font-weight: bold;
-        font-size: 1.8rem;
-        font-family: monospace;
-        transition: font-size 0.2s, opacity 0.3s;
-      }
-      .small0,
-      .small,
-      .small0 text,
-      .small text {
-        font-size: 0.5rem;
-      }
-      .bigtext0 text {
-        font-size: 1rem;
-      }
-      .big,
-      .big0 {
-        font-size: 3.5rem;
-      }
-      .big0,
-        .big,
-        .big0 text,
-        .big text {
-          font-size: 1rem;
-        }
-      @media only screen and (max-width: 768px) {
-        .big0,
-        .big,
-        .big0 text,
-        .big text {
-          font-size: 0.9rem;
-        }
-      }
-      .nav .active0 circle,
-      .nav .active circle {
-        opacity: 1;
-      }
-      .nav .active0 .number,
-      .nav .active .number {
-        font-size: 3.5rem;
-      }
-      .nav .active0:not(#sixty) text:not(.number),
-      .nav .active:not(#sixty) text:not(.number) {
-        display: none;
-      }
-      .footer_text {
-        font-size: 0.8rem;
-        fill: #002f68;
-      }
-      .none {
-        display: none;
-      }
-      .title {
-        fill: #ffffff;
-        font-size: 38px;
-      }
-      .text {
-        fill: #002f68;
-      }
-      .box {
-        fill: #eff3f7;
-      }
-      .header {
-        fill: #002f68;
-      }
-      .molecule {
-        fill: #507b00;
-      }
-      .arrow {
-        fill: none;
-        stroke: #d40065;
-        stroke-width: 13;
-        stroke-miterlimit: 10;
-      }
-      .arrow_head {
-        stroke: #d40065;
-        fill: #d40065;
-      }
-      .white {
-        fill: #ffffff;
-      }
-      .purple {
-        fill: #693875;
-      }
-      .inactive,
-      .inactive0 {
-        opacity: 0;
-      }
-      .active,
-      .active0 {
-        opacity: 1;
-      }
-    </style>
   </body>
 </html>
