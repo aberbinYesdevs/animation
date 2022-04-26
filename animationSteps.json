@@ -75,15 +75,15 @@
     },
     "fivety_text_one": {
       "targets": "#fivety_text_one",
-      "transform": "matrix(1 0 0 1 110.4 244)"
+      "transform": "matrix(1 0 0 1 108 244)"
     },
     "fivety_text_two": {
       "targets": "#fivety_text_two",
-      "transform": "matrix(1 0 0 1 135.4 259)"
+      "transform": "matrix(1 0 0 1 133 259)"
     },
     "fivety_text_three": {
       "targets": "#fivety_text_three",
-      "transform": "matrix(1 0 0 1 115.4 274)"
+      "transform": "matrix(1 0 0 1 113 274)"
     },
     "fourty_circle": {
       "targets": "#fourty_circle",
@@ -96,7 +96,7 @@
     },
     "fourty_text": {
       "targets": "#fourty_text",
-      "transform": "matrix(1 0 0 1 118.4 414.1)"
+      "transform": "matrix(1 0 0 1 116 414.1)"
     },
     "third_circle": {
       "targets": "#third_circle",
@@ -109,7 +109,7 @@
     },
     "third_text_one": {
       "targets": "#third_text_one",
-      "transform": "matrix(1 0 0 1 116.4 575)"
+      "transform": "matrix(1 0 0 1 114 575)"
     },
     "third_text_two": {
       "targets": "#third_text_two",
@@ -126,11 +126,11 @@
     },
     "second_text_one": {
       "targets": "#second_text_one",
-      "transform": "matrix(1 0 0 1 105.4 735)"
+      "transform": "matrix(1 0 0 1 105 735)"
     },
     "second_text_two": {
       "targets": "#second_text_two",
-      "transform": "matrix(1 0 0 1 115.4 750)"
+      "transform": "matrix(1 0 0 1 115 750)"
     },
     "first_circle": {
       "targets": "#first_circle",
@@ -256,15 +256,15 @@
     },
     "fivety_text_one": {
       "targets": "#fivety_text_one",
-      "transform": "matrix(1 0 0 1 110.4 244)"
+      "transform": "matrix(1 0 0 1 108 244)"
     },
     "fivety_text_two": {
       "targets": "#fivety_text_two",
-      "transform": "matrix(1 0 0 1 135.4 259)"
+      "transform": "matrix(1 0 0 1 133 259)"
     },
     "fivety_text_three": {
       "targets": "#fivety_text_three",
-      "transform": "matrix(1 0 0 1 115.4 274)"
+      "transform": "matrix(1 0 0 1 113 274)"
     },
     "fourty_circle": {
       "targets": "#fourty_circle",
@@ -312,7 +312,7 @@
     },
     "second_text_two": {
       "targets": "#second_text_two",
-      "transform": "matrix(1 0 0 1 115.4 820)"
+      "transform": "matrix(1 0 0 1 113 820)"
     },
     "second": {
       "targets": "#second",
@@ -455,15 +455,15 @@
     },
     "fivety_text_one": {
       "targets": "#fivety_text_one",
-      "transform": "matrix(1 0 0 1 110.4 244)"
+      "transform": "matrix(1 0 0 1 108 244)"
     },
     "fivety_text_two": {
       "targets": "#fivety_text_two",
-      "transform": "matrix(1 0 0 1 135.4 259)"
+      "transform": "matrix(1 0 0 1 133 259)"
     },
     "fivety_text_three": {
       "targets": "#fivety_text_three",
-      "transform": "matrix(1 0 0 1 115.4 274)"
+      "transform": "matrix(1 0 0 1 113 274)"
     },
     "fourty_circle": {
       "targets": "#fourty_circle",
@@ -511,7 +511,7 @@
     },
     "second_text_two": {
       "targets": "#second_text_two",
-      "transform": "matrix(1 0 0 1 115.4 815)"
+      "transform": "matrix(1 0 0 1 113 815)"
     },
     "first_circle": {
       "targets": "#first_circle",
@@ -630,15 +630,15 @@
     },
     "fivety_text_one": {
       "targets": "#fivety_text_one",
-      "transform": "matrix(1 0 0 1 110.4 244)"
+      "transform": "matrix(1 0 0 1 108 244)"
     },
     "fivety_text_two": {
       "targets": "#fivety_text_two",
-      "transform": "matrix(1 0 0 1 135.4 259)"
+      "transform": "matrix(1 0 0 1 133 259)"
     },
     "fivety_text_three": {
       "targets": "#fivety_text_three",
-      "transform": "matrix(1 0 0 1 115.4 274)"
+      "transform": "matrix(1 0 0 1 113 274)"
     },
     "fourty_circle": {
       "targets": "#fourty_circle",
@@ -686,7 +686,7 @@
     },
     "second_text_two": {
       "targets": "#second_text_two",
-      "transform": "matrix(1 0 0 1 115.4  815)"
+      "transform": "matrix(1 0 0 1 113  815)"
     },
     "first_circle": {
       "targets": "#first_circle",
@@ -867,7 +867,7 @@
     },
     "second_text_two": {
       "targets": "#second_text_two",
-      "transform": "matrix(1 0 0 1 115.4 815)"
+      "transform": "matrix(1 0 0 1 113 815)"
     },
     "first_circle": {
       "targets": "#first_circle",
@@ -956,39 +956,48 @@
     },
     "calendar_2_tag_1": {
       "targets": "#calendar_2_tag_1",
-      "d": "M377.1,634.5c0-2.7-0.2-5.4,0-8.1c0.3-4.2,3-6.6,6.7-6.6c3.8,0,6.5,2.5,6.7,6.6c0.2,5.4,0.2,10.8,0,16.1  c-0.2,4-3.1,6.8-6.7,6.8c-3.5,0-6.4-2.8-6.8-6.8C376.9,639.9,377.1,637.2,377.1,634.5z"
+      "d": "M377.1,634.5c0-2.7-0.2-5.4,0-8.1c0.3-4.2,3-6.6,6.7-6.6c3.8,0,6.5,2.5,6.7,6.6c0.2,5.4,0.2,10.8,0,16.1  c-0.2,4-3.1,6.8-6.7,6.8c-3.5,0-6.4-2.8-6.8-6.8C376.9,639.9,377.1,637.2,377.1,634.5z",
+      "class": "text active"
     },
     "calendar_3_tag_1": {
       "targets": "#calendar_3_tag_1",
-      "d": "M377.1,456.2c0-2.7-0.2-5.4,0-8.1c0.3-4.2,3-6.6,6.7-6.6c3.8,0,6.5,2.5,6.7,6.6c0.2,5.4,0.2,10.8,0,16.1  c-0.2,4-3.1,6.8-6.7,6.8c-3.5,0-6.4-2.8-6.8-6.8C376.9,461.6,377.1,458.9,377.1,456.2z"
+      "d": "M377.1,456.2c0-2.7-0.2-5.4,0-8.1c0.3-4.2,3-6.6,6.7-6.6c3.8,0,6.5,2.5,6.7,6.6c0.2,5.4,0.2,10.8,0,16.1  c-0.2,4-3.1,6.8-6.7,6.8c-3.5,0-6.4-2.8-6.8-6.8C376.9,461.6,377.1,458.9,377.1,456.2z",
+      "class": "text active"
     },
     "calendar_4_tag_1": {
       "targets": "#calendar_4_tag_1",
-      "d": "M377.1,271.4c0-2.7-0.2-5.4,0-8.1c0.3-4.2,3-6.6,6.7-6.6c3.8,0,6.5,2.5,6.7,6.6c0.2,5.4,0.2,10.8,0,16.1  c-0.2,4-3.1,6.8-6.7,6.8c-3.5,0-6.4-2.8-6.8-6.8C376.9,276.8,377.1,274.1,377.1,271.4z"
+      "d": "M377.1,271.4c0-2.7-0.2-5.4,0-8.1c0.3-4.2,3-6.6,6.7-6.6c3.8,0,6.5,2.5,6.7,6.6c0.2,5.4,0.2,10.8,0,16.1  c-0.2,4-3.1,6.8-6.7,6.8c-3.5,0-6.4-2.8-6.8-6.8C376.9,276.8,377.1,274.1,377.1,271.4z",
+      "class": "text active"
     },
     "calendar_5_tag_1": {
       "targets": "#calendar_5_tag_1",
-      "d": "M377.1,95.2c0-2.7-0.2-5.4,0-8.1c0.3-4.2,3-6.6,6.7-6.6c3.8,0,6.5,2.5,6.7,6.6c0.2,5.4,0.2,10.8,0,16.1  c-0.2,4-3.1,6.8-6.7,6.8c-3.5,0-6.4-2.8-6.8-6.8C376.9,100.6,377.1,97.9,377.1,95.2z"
+      "d": "M377.1,95.2c0-2.7-0.2-5.4,0-8.1c0.3-4.2,3-6.6,6.7-6.6c3.8,0,6.5,2.5,6.7,6.6c0.2,5.4,0.2,10.8,0,16.1  c-0.2,4-3.1,6.8-6.7,6.8c-3.5,0-6.4-2.8-6.8-6.8C376.9,100.6,377.1,97.9,377.1,95.2z",
+      "class": "text active"
     },
     "calendar_1_tag_2": {
       "targets": "#calendar_1_tag_2",
-      "d": "M468.4,826.4c-0.5,3.7-3.5,6.1-6.7,6.1c-3.3,0-6.4-2.5-6.7-6.2c-0.4-5.8-0.4-11.6,0-17.3c0.3-3.9,3.1-6,6.7-6  c3.5,0,6,2.2,6.7,6.1C468.7,810.7,468.7,823.7,468.4,826.4z"
+      "d": "M468.4,826.4c-0.5,3.7-3.5,6.1-6.7,6.1c-3.3,0-6.4-2.5-6.7-6.2c-0.4-5.8-0.4-11.6,0-17.3c0.3-3.9,3.1-6,6.7-6  c3.5,0,6,2.2,6.7,6.1C468.7,810.7,468.7,823.7,468.4,826.4z",
+      "class": "text active"
     },
     "calendar_2_tag_2": {
       "targets": "#calendar_2_tag_2",
-      "d": "M468.4,643.2c-0.5,3.7-3.5,6.1-6.7,6.1c-3.3,0-6.4-2.5-6.7-6.2c-0.4-5.8-0.4-11.6,0-17.3c0.3-3.9,3.1-6,6.7-6  c3.5,0,6,2.2,6.7,6.1C468.7,627.5,468.7,640.6,468.4,643.2z"
+      "d": "M468.4,643.2c-0.5,3.7-3.5,6.1-6.7,6.1c-3.3,0-6.4-2.5-6.7-6.2c-0.4-5.8-0.4-11.6,0-17.3c0.3-3.9,3.1-6,6.7-6  c3.5,0,6,2.2,6.7,6.1C468.7,627.5,468.7,640.6,468.4,643.2z",
+      "class": "text active"
     },
     "calendar_3_tag_2": {
       "targets": "#calendar_3_tag_2",
-      "d": "M468.4,464.9c-0.5,3.7-3.5,6.1-6.7,6.1c-3.3,0-6.4-2.5-6.7-6.2c-0.4-5.8-0.4-11.6,0-17.3c0.3-3.9,3.1-6,6.7-6  c3.5,0,6,2.2,6.7,6.1C468.7,449.1,468.7,462.2,468.4,464.9z"
+      "d": "M468.4,464.9c-0.5,3.7-3.5,6.1-6.7,6.1c-3.3,0-6.4-2.5-6.7-6.2c-0.4-5.8-0.4-11.6,0-17.3c0.3-3.9,3.1-6,6.7-6  c3.5,0,6,2.2,6.7,6.1C468.7,449.1,468.7,462.2,468.4,464.9z",
+      "class": "text active"
     },
     "calendar_4_tag_2": {
       "targets": "#calendar_4_tag_2",
-      "d": "M468.4,280.1c-0.5,3.7-3.5,6.1-6.7,6.1c-3.3,0-6.4-2.5-6.7-6.2c-0.4-5.8-0.4-11.6,0-17.3c0.3-3.9,3.1-6,6.7-6  c3.5,0,6,2.2,6.7,6.1C468.7,264.4,468.7,277.5,468.4,280.1z"
+      "d": "M468.4,280.1c-0.5,3.7-3.5,6.1-6.7,6.1c-3.3,0-6.4-2.5-6.7-6.2c-0.4-5.8-0.4-11.6,0-17.3c0.3-3.9,3.1-6,6.7-6  c3.5,0,6,2.2,6.7,6.1C468.7,264.4,468.7,277.5,468.4,280.1z",
+      "class": "text active"
     },
     "calendar_5_tag_2": {
       "targets": "#calendar_5_tag_2",
-      "d": "M468.4,103.9c-0.5,3.7-3.5,6.1-6.7,6.1c-3.3,0-6.4-2.5-6.7-6.2c-0.4-5.8-0.4-11.6,0-17.3c0.3-3.9,3.1-6,6.7-6  c3.5,0,6,2.2,6.7,6.1C468.7,88.2,468.7,101.3,468.4,103.9z"
+      "d": "M468.4,103.9c-0.5,3.7-3.5,6.1-6.7,6.1c-3.3,0-6.4-2.5-6.7-6.2c-0.4-5.8-0.4-11.6,0-17.3c0.3-3.9,3.1-6,6.7-6  c3.5,0,6,2.2,6.7,6.1C468.7,88.2,468.7,101.3,468.4,103.9z",
+      "class": "text active"
     },
     "clock_1": {
       "targets": "#clock_1",
@@ -1136,15 +1145,15 @@
     },
     "fivety_text_one": {
       "targets": "#fivety_text_one",
-      "transform": "matrix(1 0 0 1 110.4 302.5)"
+      "transform": "matrix(1 0 0 1 108 302.5)"
     },
     "fivety_text_two": {
       "targets": "#fivety_text_two",
-      "transform": "matrix(1 0 0 1 135.4 317.5)"
+      "transform": "matrix(1 0 0 1 133 317.5)"
     },
     "fivety_text_three": {
       "targets": "#fivety_text_three",
-      "transform": "matrix(1 0 0 1 115.4 332.5)"
+      "transform": "matrix(1 0 0 1 113 332.5)"
     },
     "fourty_circle": {
       "targets": "#fourty_circle",
@@ -1194,7 +1203,7 @@
     },
     "second_text_two": {
       "targets": "#second_text_two",
-      "transform": "matrix(1 0 0 1 115.4 811.2)"
+      "transform": "matrix(1 0 0 1 113 811.2)"
     },
     "first_circle": {
       "targets": "#first_circle",
