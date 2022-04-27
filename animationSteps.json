@@ -648,7 +648,7 @@
     },
     "fourty_number": {
       "targets": "#fourty_number",
-      "transform": "matrix(1 0 0 1 125.4 461)"
+      "transform": "matrix(1 0 0 1 121.4 461)"
     },
     "fourty_text": {
       "targets": "#fourty_text",
