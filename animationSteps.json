@@ -277,7 +277,7 @@
     },
     "fourty_text": {
       "targets": "#fourty_text",
-      "transform": "matrix(1 0 0 1 118.4 416)"
+      "transform": "matrix(1 0 0 1 116.4 416)"
     },
     "third_circle": {
       "targets": "#third_circle",
@@ -329,11 +329,11 @@
     },
     "first_text_one": {
       "targets": "#first_text_one",
-      "transform": "matrix(1 0 0 1 115 958)"
+      "transform": "matrix(1 0 0 1 111 958)"
     },
     "first_text_two": {
       "targets": "#first_text_two",
-      "transform": "matrix(1 0 0 1 120.4 973)"
+      "transform": "matrix(1 0 0 1 115.4 973)"
     },
     "molecule": {
       "targets": "#molecule_1, #molecule_2, #molecule_3, #molecule_4",
@@ -476,7 +476,7 @@
     },
     "fourty_text": {
       "targets": "#fourty_text",
-      "transform": "matrix(1 0 0 1 118.4 416)"
+      "transform": "matrix(1 0 0 1 116.4 416)"
     },
     "third_circle": {
       "targets": "#third_circle",
@@ -524,11 +524,11 @@
     },
     "first_text_one": {
       "targets": "#first_text_one",
-      "transform": "matrix(1 0 0 1 115 958)"
+      "transform": "matrix(1 0 0 1 111 958)"
     },
     "first_text_two": {
       "targets": "#first_text_two",
-      "transform": "matrix(1 0 0 1 120.4 973)"
+      "transform": "matrix(1 0 0 1 115.4 973)"
     },
     "calendar": {
       "targets": "#calendar_1, #calendar_2, #calendar_3, #calendar_4, #calendar_5",
@@ -699,11 +699,11 @@
     },
     "first_text_one": {
       "targets": "#first_text_one",
-      "transform": "matrix(1 0 0 1 115 958)"
+      "transform": "matrix(1 0 0 1 111 958)"
     },
     "first_text_two": {
       "targets": "#first_text_two",
-      "transform": "matrix(1 0 0 1 120.4 973)"
+      "transform": "matrix(1 0 0 1 115.4 973)"
     },
     "molecule": {
       "targets": "#molecule_1, #molecule_2, #molecule_3, #molecule_4",
@@ -833,7 +833,7 @@
     },
     "fourty_text": {
       "targets": "#fourty_text",
-      "transform": "matrix(1 0 0 1 118.4 480)"
+      "transform": "matrix(1 0 0 1 116.4 480)"
     },
     "third_circle": {
       "targets": "#third_circle",
@@ -880,11 +880,11 @@
     },
     "first_text_one": {
       "targets": "#first_text_one",
-      "transform": "matrix(1 0 0 1 115 958)"
+      "transform": "matrix(1 0 0 1 111 958)"
     },
     "first_text_two": {
       "targets": "#first_text_two",
-      "transform": "matrix(1 0 0 1 120.4 973)"
+      "transform": "matrix(1 0 0 1 115.4 973)"
     },
     "molecule": {
       "targets": "#molecule_1, #molecule_2, #molecule_3, #molecule_4",
@@ -1167,7 +1167,7 @@
     },
     "fourty_text": {
       "targets": "#fourty_text",
-      "transform": "matrix(1 0 0 1 118.4 473.2)"
+      "transform": "matrix(1 0 0 1 116.4 473.2)"
     },
     "third_circle": {
       "targets": "#third_circle",
@@ -1216,11 +1216,11 @@
     },
     "first_text_one": {
       "targets": "#first_text_one",
-      "transform": "matrix(1 0 0 1 115 955.7)"
+      "transform": "matrix(1 0 0 1 111 955.7)"
     },
     "first_text_two": {
       "targets": "#first_text_two",
-      "transform": "matrix(1 0 0 1 120.4 970.7)"
+      "transform": "matrix(1 0 0 1 115.4 970.7)"
     },
     "molecule": {
       "targets": "#molecule",
@@ -1554,7 +1554,7 @@
     },
     "fourty_number": {
       "targets": "#fourty_number",
-      "transform": "matrix(1 0 0 1 215 829.5)"
+      "transform": "matrix(1 0 0 1 213 829.5)"
     },
     "fourty_text": {
       "targets": "#fourty_text",
