@@ -6,7 +6,7 @@
     },
     "svg": {
       "targets": "#svg",
-      "viewBox": "0 0 1920 1080"
+      "viewBox": "0 0 1920 1090"
     },
     "circle_purple": {
       "targets": "#circle_purple",
@@ -192,7 +192,7 @@
     },
     "svg": {
       "targets": "#svg",
-      "viewBox": "0 0 1920 1080"
+      "viewBox": "0 0 1920 1090"
     },
     "circle_purple": {
       "targets": "#circle_purple",
@@ -378,7 +378,7 @@
     },
     "svg": {
       "targets": "#svg",
-      "viewBox": "0 0 1920 1080"
+      "viewBox": "0 0 1920 1090"
     },
     "molecule": {
       "targets": "#molecule_1, #molecule_2, #molecule_3, #molecule_4",
@@ -564,7 +564,7 @@
     },
     "svg": {
       "targets": "#svg",
-      "viewBox": "0 0 1920 1080"
+      "viewBox": "0 0 1920 1090"
     },
     "circle_purple": {
       "targets": "#circle_purple",
@@ -750,7 +750,7 @@
     },
     "svg": {
       "targets": "#svg",
-      "viewBox": "0 0 1920 1080"
+      "viewBox": "0 0 1920 1090"
     },
     "circle_purple": {
       "targets": "#circle_purple",
@@ -932,7 +932,7 @@
     },
     "svg": {
       "targets": "#svg",
-      "viewBox": "0 0 1920 1080"
+      "viewBox": "0 0 1920 1090"
     },
     "calendar_1": {
       "targets": "#calendar_1",
