@@ -51,19 +51,19 @@
     },
     "sixty_text_one": {
       "targets": "#sixty_text_one",
-      "transform": "matrix(1 0 0 1 110 70)"
+      "transform": "matrix(1 0 0 1 112 70)"
     },
     "sixty_text_two": {
       "targets": "#sixty_text_two",
-      "transform": "matrix(1 0 0 1 142 70)"
+      "transform": "matrix(1 0 0 1 144 70)"
     },
     "sixty_text_three": {
       "targets": "#sixty_text_three",
-      "transform": "matrix(1 0 0 1 105 90)"
+      "transform": "matrix(1 0 0 1 108 90)"
     },
     "sixty_text_four": {
       "targets": "#sixty_text_four",
-      "transform": "matrix(1 0 0 1 128 90)"
+      "transform": "matrix(1 0 0 1 131 90)"
     },
     "fivety_circle": {
       "targets": "#fivety_circle",
@@ -72,19 +72,19 @@
     },
     "fivety_number": {
       "targets": "#fivety_number",
-      "transform": "matrix(1 0 0 1 138.4 226)"
+      "transform": "matrix(1 0 0 1 140 226)"
     },
     "fivety_text_one": {
       "targets": "#fivety_text_one",
-      "transform": "matrix(1 0 0 1 108 244)"
+      "transform": "matrix(1 0 0 1 105 244)"
     },
     "fivety_text_two": {
       "targets": "#fivety_text_two",
-      "transform": "matrix(1 0 0 1 133 259)"
+      "transform": "matrix(1 0 0 1 134 259)"
     },
     "fivety_text_three": {
       "targets": "#fivety_text_three",
-      "transform": "matrix(1 0 0 1 113 274)"
+      "transform": "matrix(1 0 0 1 117 274)"
     },
     "fourty_circle": {
       "targets": "#fourty_circle",
@@ -93,7 +93,7 @@
     },
     "fourty_number": {
       "targets": "#fourty_number",
-      "transform": "matrix(1 0 0 1 138.4 396.1)"
+      "transform": "matrix(1 0 0 1 140 396.1)"
     },
     "fourty_text": {
       "targets": "#fourty_text",
@@ -106,7 +106,7 @@
     },
     "third_number": {
       "targets": "#third_number",
-      "transform": "matrix(1 0 0 1 138.4 557)"
+      "transform": "matrix(1 0 0 1 140 557)"
     },
     "third_text_one": {
       "targets": "#third_text_one",
@@ -123,7 +123,7 @@
     },
     "second_number": {
       "targets": "#second_number",
-      "transform": "matrix(1 0 0 1 138.4 715.2)"
+      "transform": "matrix(1 0 0 1 140 715.2)"
     },
     "second_text_one": {
       "targets": "#second_text_one",
@@ -233,19 +233,19 @@
     },
     "sixty_text_one": {
       "targets": "#sixty_text_one",
-      "transform": "matrix(1 0 0 1 110 70)"
+      "transform": "matrix(1 0 0 1 112 70)"
     },
     "sixty_text_two": {
       "targets": "#sixty_text_two",
-      "transform": "matrix(1 0 0 1 142 70)"
+      "transform": "matrix(1 0 0 1 144 70)"
     },
     "sixty_text_three": {
       "targets": "#sixty_text_three",
-      "transform": "matrix(1 0 0 1 105 90)"
+      "transform": "matrix(1 0 0 1 108 90)"
     },
     "sixty_text_four": {
       "targets": "#sixty_text_four",
-      "transform": "matrix(1 0 0 1 128 90)"
+      "transform": "matrix(1 0 0 1 131 90)"
     },
     "fivety_circle": {
       "targets": "#fivety_circle",
@@ -254,19 +254,19 @@
     },
     "fivety_number": {
       "targets": "#fivety_number",
-      "transform": "matrix(1 0 0 1 138.4 226)"
+      "transform": "matrix(1 0 0 1 140 226)"
     },
     "fivety_text_one": {
       "targets": "#fivety_text_one",
-      "transform": "matrix(1 0 0 1 108 244)"
+      "transform": "matrix(1 0 0 1 105 244)"
     },
     "fivety_text_two": {
       "targets": "#fivety_text_two",
-      "transform": "matrix(1 0 0 1 133 259)"
+      "transform": "matrix(1 0 0 1 134 259)"
     },
     "fivety_text_three": {
       "targets": "#fivety_text_three",
-      "transform": "matrix(1 0 0 1 113 274)"
+      "transform": "matrix(1 0 0 1 117 274)"
     },
     "fourty_circle": {
       "targets": "#fourty_circle",
@@ -275,7 +275,7 @@
     },
     "fourty_number": {
       "targets": "#fourty_number",
-      "transform": "matrix(1 0 0 1 138.4 396.1)"
+      "transform": "matrix(1 0 0 1 140 396.1)"
     },
     "fourty_text": {
       "targets": "#fourty_text",
@@ -288,7 +288,7 @@
     },
     "third_number": {
       "targets": "#third_number",
-      "transform": "matrix(1 0 0 1 138.4 560.2)"
+      "transform": "matrix(1 0 0 1 140 560.2)"
     },
     "third_text_one": {
       "targets": "#third_text_one",
@@ -327,7 +327,7 @@
     },
     "first_number": {
       "targets": "#first_number",
-      "transform": "matrix(1 0 0 1 138.4 936)"
+      "transform": "matrix(1 0 0 1 140 936)"
     },
     "first_text_one": {
       "targets": "#first_text_one",
@@ -433,19 +433,19 @@
     },
     "sixty_text_one": {
       "targets": "#sixty_text_one",
-      "transform": "matrix(1 0 0 1 110 70)"
+      "transform": "matrix(1 0 0 1 112 70)"
     },
     "sixty_text_two": {
       "targets": "#sixty_text_two",
-      "transform": "matrix(1 0 0 1 142 70)"
+      "transform": "matrix(1 0 0 1 144 70)"
     },
     "sixty_text_three": {
       "targets": "#sixty_text_three",
-      "transform": "matrix(1 0 0 1 105 90)"
+      "transform": "matrix(1 0 0 1 108 90)"
     },
     "sixty_text_four": {
       "targets": "#sixty_text_four",
-      "transform": "matrix(1 0 0 1 128 90)"
+      "transform": "matrix(1 0 0 1 131 90)"
     },
     "fivety_circle": {
       "targets": "#fivety_circle",
@@ -454,19 +454,19 @@
     },
     "fivety_number": {
       "targets": "#fivety_number",
-      "transform": "matrix(1 0 0 1 138.4 226)"
+      "transform": "matrix(1 0 0 1 140 226)"
     },
     "fivety_text_one": {
       "targets": "#fivety_text_one",
-      "transform": "matrix(1 0 0 1 108 244)"
+      "transform": "matrix(1 0 0 1 105 244)"
     },
     "fivety_text_two": {
       "targets": "#fivety_text_two",
-      "transform": "matrix(1 0 0 1 133 259)"
+      "transform": "matrix(1 0 0 1 134 259)"
     },
     "fivety_text_three": {
       "targets": "#fivety_text_three",
-      "transform": "matrix(1 0 0 1 113 274)"
+      "transform": "matrix(1 0 0 1 117 274)"
     },
     "fourty_circle": {
       "targets": "#fourty_circle",
@@ -475,7 +475,7 @@
     },
     "fourty_number": {
       "targets": "#fourty_number",
-      "transform": "matrix(1 0 0 1 138.4 396.1)"
+      "transform": "matrix(1 0 0 1 140 396.1)"
     },
     "fourty_text": {
       "targets": "#fourty_text",
@@ -506,7 +506,7 @@
     },
     "second_number": {
       "targets": "#second_number",
-      "transform": "matrix(1 0 0 1 138.4 777)"
+      "transform": "matrix(1 0 0 1 140 777)"
     },
     "second_text_one": {
       "targets": "#second_text_one",
@@ -523,7 +523,7 @@
     },
     "first_number": {
       "targets": "#first_number",
-      "transform": "matrix(1 0 0 1 138.4 936)"
+      "transform": "matrix(1 0 0 1 140 936)"
     },
     "first_text_one": {
       "targets": "#first_text_one",
@@ -609,19 +609,19 @@
     },
     "sixty_text_one": {
       "targets": "#sixty_text_one",
-      "transform": "matrix(1 0 0 1 110 70)"
+      "transform": "matrix(1 0 0 1 112 70)"
     },
     "sixty_text_two": {
       "targets": "#sixty_text_two",
-      "transform": "matrix(1 0 0 1 142 70)"
+      "transform": "matrix(1 0 0 1 144 70)"
     },
     "sixty_text_three": {
       "targets": "#sixty_text_three",
-      "transform": "matrix(1 0 0 1 105 90)"
+      "transform": "matrix(1 0 0 1 108 90)"
     },
     "sixty_text_four": {
       "targets": "#sixty_text_four",
-      "transform": "matrix(1 0 0 1 128 90)"
+      "transform": "matrix(1 0 0 1 131 90)"
     },
     "fivety_circle": {
       "targets": "#fivety_circle",
@@ -630,19 +630,19 @@
     },
     "fivety_number": {
       "targets": "#fivety_number",
-      "transform": "matrix(1 0 0 1 138.4 226)"
+      "transform": "matrix(1 0 0 1 140 226)"
     },
     "fivety_text_one": {
       "targets": "#fivety_text_one",
-      "transform": "matrix(1 0 0 1 108 244)"
+      "transform": "matrix(1 0 0 1 105 244)"
     },
     "fivety_text_two": {
       "targets": "#fivety_text_two",
-      "transform": "matrix(1 0 0 1 133 259)"
+      "transform": "matrix(1 0 0 1 134 259)"
     },
     "fivety_text_three": {
       "targets": "#fivety_text_three",
-      "transform": "matrix(1 0 0 1 113 274)"
+      "transform": "matrix(1 0 0 1 117 274)"
     },
     "fourty_circle": {
       "targets": "#fourty_circle",
@@ -665,7 +665,7 @@
     },
     "third_number": {
       "targets": "#third_number",
-      "transform": "matrix(1 0 0 1 138.4 617)"
+      "transform": "matrix(1 0 0 1 140 617)"
     },
     "third_text_one": {
       "targets": "#third_text_one",
@@ -682,7 +682,7 @@
     },
     "second_number": {
       "targets": "#second_number",
-      "transform": "matrix(1 0 0 1 138.4 777)"
+      "transform": "matrix(1 0 0 1 140 777)"
     },
     "second_text_one": {
       "targets": "#second_text_one",
@@ -699,7 +699,7 @@
     },
     "first_number": {
       "targets": "#first_number",
-      "transform": "matrix(1 0 0 1 138.4 936)"
+      "transform": "matrix(1 0 0 1 140 936)"
     },
     "first_text_one": {
       "targets": "#first_text_one",
@@ -795,19 +795,19 @@
     },
     "sixty_text_one": {
       "targets": "#sixty_text_one",
-      "transform": "matrix(1 0 0 1 110 70)"
+      "transform": "matrix(1 0 0 1 112 70)"
     },
     "sixty_text_two": {
       "targets": "#sixty_text_two",
-      "transform": "matrix(1 0 0 1 142 70)"
+      "transform": "matrix(1 0 0 1 144 70)"
     },
     "sixty_text_three": {
       "targets": "#sixty_text_three",
-      "transform": "matrix(1 0 0 1 105 90)"
+      "transform": "matrix(1 0 0 1 108 90)"
     },
     "sixty_text_four": {
       "targets": "#sixty_text_four",
-      "transform": "matrix(1 0 0 1 128 90)"
+      "transform": "matrix(1 0 0 1 131 90)"
     },
     "fivety_circle": {
       "targets": "#fivety_circle",
@@ -834,7 +834,7 @@
     },
     "fourty_number": {
       "targets": "#fourty_number",
-      "transform": "matrix(1 0 0 1 138.4 460)"
+      "transform": "matrix(1 0 0 1 140 460)"
     },
     "fourty_text": {
       "targets": "#fourty_text",
@@ -847,7 +847,7 @@
     },
     "third_number": {
       "targets": "#third_number",
-      "transform": "matrix(1 0 0 1 138.4 617)"
+      "transform": "matrix(1 0 0 1 140 617)"
     },
     "third_text_one": {
       "targets": "#third_text_one",
@@ -864,7 +864,7 @@
     },
     "second_number": {
       "targets": "#second_number",
-      "transform": "matrix(1 0 0 1 138.4 777)"
+      "transform": "matrix(1 0 0 1 140 777)"
     },
     "second_text_one": {
       "targets": "#second_text_one",
@@ -881,7 +881,7 @@
     },
     "first_number": {
       "targets": "#first_number",
-      "transform": "matrix(1 0 0 1 138.4 936)"
+      "transform": "matrix(1 0 0 1 140 936)"
     },
     "first_text_one": {
       "targets": "#first_text_one",
@@ -1183,7 +1183,7 @@
     },
     "third_number": {
       "targets": "#third_number",
-      "transform": "matrix(1 0 0 1 138.4 611.7)"
+      "transform": "matrix(1 0 0 1 140 611.7)"
     },
     "third_text_one": {
       "targets": "#third_text_one",
@@ -1201,7 +1201,7 @@
     },
     "second_number": {
       "targets": "#second_number",
-      "transform": "matrix(1 0 0 1 138.4 773.2)"
+      "transform": "matrix(1 0 0 1 140 773.2)"
     },
     "second_text_one": {
       "targets": "#second_text_one",
@@ -1218,7 +1218,7 @@
     },
     "first_number": {
       "targets": "#first_number",
-      "transform": "matrix(1 0 0 1 138.4 933.7)"
+      "transform": "matrix(1 0 0 1 140 933.7)"
     },
     "first_text_one": {
       "targets": "#first_text_one",
