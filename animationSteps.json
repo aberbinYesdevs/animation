@@ -2275,7 +2275,7 @@
     },
     "sixty_text_four": {
       "targets": "#sixty_text_four",
-      "transform": "matrix(1 0 0 1 100 625)"
+      "transform": "matrix(1 0 0 1 98 625)"
     },
     "fivety_circle": {
       "targets": "#fivety_circle",
