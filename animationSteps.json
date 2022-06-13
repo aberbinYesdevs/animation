@@ -1358,7 +1358,7 @@
     },
     "fivety_text_one": {
       "targets": "#fivety_text_one",
-      "transform": "matrix(1 0 0 1 182.4 690)"
+      "transform": "matrix(1 0 0 1 180 690)"
     },
     "fivety_text_two": {
       "targets": "#fivety_text_two",
@@ -1409,11 +1409,11 @@
     },
     "second_text_one": {
       "targets": "#second_text_one",
-      "transform": "matrix(1 0 0 1 178.4 1139)"
+      "transform": "matrix(1 0 0 1 182 1139)"
     },
     "second_text_two": {
       "targets": "#second_text_two",
-      "transform": "matrix(1 0 0 1 184.4 1154)"
+      "transform": "matrix(1 0 0 1 187 1154)"
     },
     "first_circle": {
       "targets": "#first_circle",
@@ -1427,7 +1427,7 @@
     },
     "first_text_one": {
       "targets": "#first_text_one",
-      "transform": "matrix(1 0 0 1 184.4 1350)"
+      "transform": "matrix(1 0 0 1 183 1350)"
     },
     "first_text_two": {
       "targets": "#first_text_two",
@@ -1545,7 +1545,7 @@
     },
     "fivety_text_one": {
       "targets": "#fivety_text_one",
-      "transform": "matrix(1 0 0 1 182.4 690)"
+      "transform": "matrix(1 0 0 1 180 690)"
     },
     "fivety_text_two": {
       "targets": "#fivety_text_two",
@@ -1597,11 +1597,11 @@
     },
     "second_text_one": {
       "targets": "#second_text_one",
-      "transform": "matrix(1 0 0 1 178.4 1139)"
+      "transform": "matrix(1 0 0 1 182 1139)"
     },
     "second_text_two": {
       "targets": "#second_text_two",
-      "transform": "matrix(1 0 0 1 184.4 1154)"
+      "transform": "matrix(1 0 0 1 187 1154)"
     },
     "first_circle": {
       "targets": "#first_circle",
@@ -1614,7 +1614,7 @@
     },
     "first_text_one": {
       "targets": "#first_text_one",
-      "transform": "matrix(1 0 0 1 184.4 1350)"
+      "transform": "matrix(1 0 0 1 183 1350)"
     },
     "first_text_two": {
       "targets": "#first_text_two",
@@ -1732,7 +1732,7 @@
     },
     "fivety_text_one": {
       "targets": "#fivety_text_one",
-      "transform": "matrix(1 0 0 1 182.4 690)"
+      "transform": "matrix(1 0 0 1 180 690)"
     },
     "fivety_text_two": {
       "targets": "#fivety_text_two",
@@ -1784,11 +1784,11 @@
     },
     "second_text_one": {
       "targets": "#second_text_one",
-      "transform": "matrix(1 0 0 1 178.4 1199)"
+      "transform": "matrix(1 0 0 1 182 1199)"
     },
     "second_text_two": {
       "targets": "#second_text_two",
-      "transform": "matrix(1 0 0 1 184.4 1211)"
+      "transform": "matrix(1 0 0 1 186 1214)"
     },
     "first_circle": {
       "targets": "#first_circle",
@@ -1801,7 +1801,7 @@
     },
     "first_text_one": {
       "targets": "#first_text_one",
-      "transform": "matrix(1 0 0 1 184.4 1350)"
+      "transform": "matrix(1 0 0 1 183 1350)"
     },
     "first_text_two": {
       "targets": "#first_text_two",
@@ -1922,7 +1922,7 @@
     },
     "fivety_text_one": {
       "targets": "#fivety_text_one",
-      "transform": "matrix(1 0 0 1 182.4 690)"
+      "transform": "matrix(1 0 0 1 180 690)"
     },
     "fivety_text_two": {
       "targets": "#fivety_text_two",
@@ -1953,15 +1953,15 @@
     },
     "third_number": {
       "targets": "#third_number",
-      "transform": "matrix(1 0 0 1 213 1032.3)"
+      "transform": "matrix(1 0 0 1 214 1032.3)"
     },
     "third_text_one": {
       "targets": "#third_text_one",
-      "transform": "matrix(1 0 0 1 192.4 1054)"
+      "transform": "matrix(1 0 0 1 194 1054)"
     },
     "third_text_two": {
       "targets": "#third_text_two",
-      "transform": "matrix(1 0 0 1 190.4 1069)"
+      "transform": "matrix(1 0 0 1 190 1069)"
     },
     "second_circle": {
       "targets": "#second_circle",
@@ -1974,11 +1974,11 @@
     },
     "second_text_one": {
       "targets": "#second_text_one",
-      "transform": "matrix(1 0 0 1 178.4 1199)"
+      "transform": "matrix(1 0 0 1 182 1199)"
     },
     "second_text_two": {
       "targets": "#second_text_two",
-      "transform": "matrix(1 0 0 1 184.4 1211)"
+      "transform": "matrix(1 0 0 1 186 1214)"
     },
     "first_circle": {
       "targets": "#first_circle",
@@ -1991,7 +1991,7 @@
     },
     "first_text_one": {
       "targets": "#first_text_one",
-      "transform": "matrix(1 0 0 1 184.4 1350)"
+      "transform": "matrix(1 0 0 1 183 1350)"
     },
     "first_text_two": {
       "targets": "#first_text_two",
@@ -2140,15 +2140,15 @@
     },
     "third_number": {
       "targets": "#third_number",
-      "transform": "matrix(1 0 0 1 213 1032.3)"
+      "transform": "matrix(1 0 0 1 214 1032.3)"
     },
     "third_text_one": {
       "targets": "#third_text_one",
-      "transform": "matrix(1 0 0 1 192.4 1054)"
+      "transform": "matrix(1 0 0 1 194 1054)"
     },
     "third_text_two": {
       "targets": "#third_text_two",
-      "transform": "matrix(1 0 0 1 190.4 1069)"
+      "transform": "matrix(1 0 0 1 190 1069)"
     },
     "second_circle": {
       "targets": "#second_circle",
@@ -2161,11 +2161,11 @@
     },
     "second_text_one": {
       "targets": "#second_text_one",
-      "transform": "matrix(1 0 0 1 180.4 1199)"
+      "transform": "matrix(1 0 0 1 183 1199)"
     },
     "second_text_two": {
       "targets": "#second_text_two",
-      "transform": "matrix(1 0 0 1 184.4 1211)"
+      "transform": "matrix(1 0 0 1 189 1214)"
     },
     "first_circle": {
       "targets": "#first_circle",
@@ -2178,7 +2178,7 @@
     },
     "first_text_one": {
       "targets": "#first_text_one",
-      "transform": "matrix(1 0 0 1 184.4 1350)"
+      "transform": "matrix(1 0 0 1 183 1350)"
     },
     "first_text_two": {
       "targets": "#first_text_two",
@@ -2267,11 +2267,11 @@
     },
     "sixty_text_two": {
       "targets": "#sixty_text_two",
-      "transform": "matrix(1 0 0 1 98 590)"
+      "transform": "matrix(1 0 0 1 94 590)"
     },
     "sixty_text_three": {
       "targets": "#sixty_text_three",
-      "transform": "matrix(1 0 0 1 190 590)"
+      "transform": "matrix(1 0 0 1 194 590)"
     },
     "sixty_text_four": {
       "targets": "#sixty_text_four",
@@ -2287,7 +2287,7 @@
     },
     "fivety_text_one": {
       "targets": "#fivety_text_one",
-      "transform": "matrix(1 0 0 1 118.6 777.4)"
+      "transform": "matrix(1 0 0 1 116 777.4)"
     },
     "fivety_text_two": {
       "targets": "#fivety_text_two",
@@ -2335,11 +2335,11 @@
     },
     "second_text_one": {
       "targets": "#second_text_one",
-      "transform": "matrix(1 0 0 1 114.4 1219)"
+      "transform": "matrix(1 0 0 1 117 1219)"
     },
     "second_text_two": {
       "targets": "#second_text_two",
-      "transform": "matrix(1 0 0 1 124.4 1234)"
+      "transform": "matrix(1 0 0 1 124 1234)"
     },
     "first_circle": {
       "targets": "#first_circle",
@@ -2351,7 +2351,7 @@
     },
     "first_text_one": {
       "targets": "#first_text_one",
-      "transform": "matrix(1 0 0 1 120.4 1370)"
+      "transform": "matrix(1 0 0 1 118 1370)"
     },
     "first_text_two": {
       "targets": "#first_text_two",
