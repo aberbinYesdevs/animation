@@ -8569,7 +8569,7 @@
       </g>
     </svg>
     <script type="text/javascript">
-      var mobile_breakpoint = 375;
+      var mobile_breakpoint = 1024;
       function makeAnimation(obj) {
         Object.keys(obj).forEach((key) => {
           anime({
@@ -8590,6 +8590,7 @@
             window.screen.availWidth <= mobile_breakpoint
                 ? "mobile"
                 : "desktop";
+                console.log( window.screen.availWidth , mobile_breakpoint)
             makeAnimation(jsonData[`${activeId}_${type}`]);
           });
           const type =
